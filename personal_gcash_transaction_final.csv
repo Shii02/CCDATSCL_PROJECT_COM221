@@ -1,5 +1,5 @@
 Description,Debit,YearMonth,Year,Month,Day,DayOfWeek,DayName,Weekend,Category_code,Category_buy_load,Category_food_delivery_payment,Category_game_payment,Category_online_shopping_payment,Category_outgoing_transfer,Category_school_fee_payment,Category_spotify_subscription_payment
-Transfer from 09287324237 to 09695514265,200.0,2025-02,2025,2,2,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,200.0,2025-02,2025,2,2,6,Sunday,1,5,0,0,0,0,1,0,0
 Payment to MLBB,94.05,2025-02,2025,2,4,1,Tuesday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-02,2025,2,4,1,Tuesday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-02,2025,2,4,1,Tuesday,0,3,0,0,1,0,0,0,0
@@ -14,100 +14,100 @@ Payment to MLBB,473.1,2025-02,2025,2,15,5,Saturday,1,3,0,0,1,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P341A201B4",75.0,2025-02,2025,2,16,6,Sunday,1,7,0,0,0,0,0,0,1
 Payment to MLBB,473.1,2025-02,2025,2,19,2,Wednesday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,47.45,2025-02,2025,2,19,2,Wednesday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09173046805,1000.0,2025-02,2025,2,19,2,Wednesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,1000.0,2025-02,2025,2,19,2,Wednesday,0,5,0,0,0,0,1,0,0
 Payment to Lapakgaming PH,216.0,2025-02,2025,2,28,4,Friday,0,3,0,0,1,0,0,0,0
-Buy Load Transaction for 09287324237,61.0,2025-03,2025,3,5,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,61.0,2025-03,2025,3,5,2,Wednesday,0,1,1,0,0,0,0,0,0
 Payment to National University,26523.6,2025-03,2025,3,10,0,Monday,0,6,0,0,0,0,0,1,0
-Transfer from 09287324237 to 09062996860,100.0,2025-03,2025,3,11,1,Tuesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,100.0,2025-03,2025,3,11,1,Tuesday,0,5,0,0,0,0,1,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P34F938E34",75.0,2025-03,2025,3,16,6,Sunday,1,7,0,0,0,0,0,0,1
-Transfer from 09287324237 to 09608906763,3800.0,2025-03,2025,3,17,0,Monday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,3800.0,2025-03,2025,3,17,0,Monday,0,5,0,0,0,0,1,0,0
 Payment to Smart GigaLife,99.0,2025-03,2025,3,20,3,Thursday,0,1,1,0,0,0,0,0,0
 Payment to Honkai Impact 3,280.0,2025-03,2025,3,24,0,Monday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09608906763,3800.0,2025-03,2025,3,29,5,Saturday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,3800.0,2025-03,2025,3,29,5,Saturday,1,5,0,0,0,0,1,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40LSTXXTa0",49.0,2025-04,2025,4,1,1,Tuesday,0,0,0,0,0,0,0,0,0
 Payment to Smart GigaLife,99.0,2025-04,2025,4,7,0,Monday,0,1,1,0,0,0,0,0,0
 Payment to Steam,419.95,2025-04,2025,4,8,1,Tuesday,0,3,0,0,1,0,0,0,0
 Payment to Smart GigaLife,199.0,2025-04,2025,4,14,0,Monday,0,1,1,0,0,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P35E6F79FB",75.0,2025-04,2025,4,16,2,Wednesday,0,7,0,0,0,0,0,0,1
-Transfer from 09287324237 to 09673842526,100.0,2025-04,2025,4,27,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,100.0,2025-04,2025,4,27,6,Sunday,1,5,0,0,0,0,1,0,0
 Payment to MLBB,94.05,2025-05,2025,5,2,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to Xsolla,269.0,2025-05,2025,5,2,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-05,2025,5,9,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-05,2025,5,9,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-05,2025,5,9,4,Friday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09473577664,180.0,2025-05,2025,5,15,3,Thursday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09944254289,200.0,2025-05,2025,5,16,4,Friday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,180.0,2025-05,2025,5,15,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,200.0,2025-05,2025,5,16,4,Friday,0,5,0,0,0,0,1,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P36D5C6403",75.0,2025-05,2025,5,16,4,Friday,0,7,0,0,0,0,0,0,1
 Payment to MLBB,94.05,2025-05,2025,5,23,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-05,2025,5,23,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,94.05,2025-05,2025,5,23,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,233.7,2025-05,2025,5,23,4,Friday,0,3,0,0,1,0,0,0,0
-Buy Load Transaction for 09287324237,61.0,2025-05,2025,5,24,5,Saturday,1,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09608906763,3800.0,2025-05,2025,5,26,0,Monday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09473577664,30.0,2025-05,2025,5,26,0,Monday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09543522542,300.0,2025-05,2025,5,27,1,Tuesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09944254289,500.0,2025-05,2025,5,27,1,Tuesday,0,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09287324237,61.0,2025-05,2025,5,29,3,Thursday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,61.0,2025-05,2025,5,24,5,Saturday,1,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,3800.0,2025-05,2025,5,26,0,Monday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,30.0,2025-05,2025,5,26,0,Monday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,300.0,2025-05,2025,5,27,1,Tuesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,500.0,2025-05,2025,5,27,1,Tuesday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,61.0,2025-05,2025,5,29,3,Thursday,0,1,1,0,0,0,0,0,0
 Payment to Smart GigaLife,199.0,2025-06,2025,6,2,0,Monday,0,1,1,0,0,0,0,0,0
 Payment to Xsolla,269.0,2025-06,2025,6,10,1,Tuesday,0,3,0,0,1,0,0,0,0
 Payment to KURO GAMES,846.99,2025-06,2025,6,13,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to Bancnet P2M Send,99.0,2025-06,2025,6,16,0,Monday,0,6,0,0,0,0,0,1,0
 Payment to Bancnet P2M Send,226.0,2025-06,2025,6,16,0,Monday,0,6,0,0,0,0,0,1,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P37BA488FA",75.0,2025-06,2025,6,16,0,Monday,0,7,0,0,0,0,0,0,1
-Buy Load Transaction for 09287324237,102.0,2025-06,2025,6,21,5,Saturday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09696363429,22.0,2025-06,2025,6,23,0,Monday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,102.0,2025-06,2025,6,21,5,Saturday,1,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,22.0,2025-06,2025,6,23,0,Monday,0,1,1,0,0,0,0,0,0
 Payment to Lapakgaming PH,217.18,2025-07,2025,7,5,5,Saturday,1,3,0,0,1,0,0,0,0
 Payment to Xsolla,269.0,2025-07,2025,7,8,1,Tuesday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09543522542,2000.0,2025-07,2025,7,10,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,2000.0,2025-07,2025,7,10,3,Thursday,0,5,0,0,0,0,1,0,0
 Payment to COGNOSPHERE PTE. LTD,799.0,2025-07,2025,7,11,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to Bancnet P2M Send,24039.6,2025-07,2025,7,11,4,Friday,0,6,0,0,0,0,0,1,0
 Payment to Xsolla,269.0,2025-07,2025,7,14,0,Monday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09608906763,3800.0,2025-07,2025,7,14,0,Monday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,3800.0,2025-07,2025,7,14,0,Monday,0,5,0,0,0,0,1,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P38A06CF0C",75.0,2025-07,2025,7,16,2,Wednesday,0,7,0,0,0,0,0,0,1
-Transfer from 09287324237 to 09289455833,300.0,2025-07,2025,7,21,0,Monday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09289455833,150.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09289455833,260.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09289455833,130.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09260556405,7000.0,2025-07,2025,7,31,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,300.0,2025-07,2025,7,21,0,Monday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,150.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,260.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,130.0,2025-07,2025,7,27,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,7000.0,2025-07,2025,7,31,3,Thursday,0,5,0,0,0,0,1,0,0
 Payment to LootBar,1028.96,2025-08,2025,8,1,4,Friday,0,3,0,0,1,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40T067Z6a0",199.0,2025-08,2025,8,1,4,Friday,0,0,0,0,0,0,0,0,0
 Payment to Smart GigaLife,149.0,2025-08,2025,8,6,2,Wednesday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09078735633,89.0,2025-08,2025,8,9,5,Saturday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,89.0,2025-08,2025,8,9,5,Saturday,1,5,0,0,0,0,1,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P399535779",75.0,2025-08,2025,8,16,5,Saturday,1,7,0,0,0,0,0,0,1
 Payment to Smart GigaLife,149.0,2025-08,2025,8,20,2,Wednesday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09608906763,5700.0,2025-08,2025,8,23,5,Saturday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,5700.0,2025-08,2025,8,23,5,Saturday,1,5,0,0,0,0,1,0,0
 Payment to Bancnet P2M Send,500.0,2025-08,2025,8,24,6,Sunday,1,6,0,0,0,0,0,1,0
-Transfer from 09287324237 to 09179672806,185.0,2025-08,2025,8,28,3,Thursday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09473577664,130.0,2025-08,2025,8,28,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,185.0,2025-08,2025,8,28,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,130.0,2025-08,2025,8,28,3,Thursday,0,5,0,0,0,0,1,0,0
 Payment to Lazada,190.0,2025-09,2025,9,4,3,Thursday,0,4,0,0,0,1,0,0,0
 Payment to Grab Philippines,111.0,2025-09,2025,9,6,5,Saturday,1,2,0,1,0,0,0,0,0
 Payment to SHOPEE,5224.0,2025-09,2025,9,8,0,Monday,0,4,0,0,0,1,0,0,0
 Payment to Lapakgaming PH,218.53,2025-09,2025,9,9,1,Tuesday,0,3,0,0,1,0,0,0,0
-Buy Load Transaction for 09287324237,61.0,2025-09,2025,9,10,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,61.0,2025-09,2025,9,10,2,Wednesday,0,1,1,0,0,0,0,0,0
 Payment to Grab Philippines,1203.25,2025-09,2025,9,12,4,Friday,0,2,0,1,0,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P3A96D15CB",75.0,2025-09,2025,9,16,1,Tuesday,0,7,0,0,0,0,0,0,1
-Buy Load Transaction for 09287324237,61.0,2025-09,2025,9,17,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,61.0,2025-09,2025,9,17,2,Wednesday,0,1,1,0,0,0,0,0,0
 Payment to MLBB,157.47,2025-09,2025,9,20,5,Saturday,1,3,0,0,1,0,0,0,0
 Payment to MLBB,319.2,2025-09,2025,9,20,5,Saturday,1,3,0,0,1,0,0,0,0
 Payment to MLBB,106.4,2025-09,2025,9,20,5,Saturday,1,3,0,0,1,0,0,0,0
 Payment to MLBB,10.64,2025-09,2025,9,20,5,Saturday,1,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09608906763,3800.0,2025-09,2025,9,23,1,Tuesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,3800.0,2025-09,2025,9,23,1,Tuesday,0,5,0,0,0,0,1,0,0
 Payment to Smart GigaLife,149.0,2025-09,2025,9,24,2,Wednesday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09078735633,89.0,2025-09,2025,9,24,2,Wednesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09260556405,2050.0,2025-09,2025,9,25,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,89.0,2025-09,2025,9,24,2,Wednesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,2050.0,2025-09,2025,9,25,3,Thursday,0,5,0,0,0,0,1,0,0
 Payment to Steam,335.0,2025-09,2025,9,26,4,Friday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09950388522,1600.0,2025-09,2025,9,28,6,Sunday,1,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09950388522,500.0,2025-09,2025,9,30,1,Tuesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09944254289,1000.0,2025-10,2025,10,1,2,Wednesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09078735633,99.0,2025-10,2025,10,2,3,Thursday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09179672806,50.0,2025-10,2025,10,4,5,Saturday,1,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09287324237,61.0,2025-10,2025,10,8,2,Wednesday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09179672806,35.0,2025-10,2025,10,11,5,Saturday,1,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09473577664,165.0,2025-10,2025,10,13,0,Monday,0,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09287324237,152.0,2025-10,2025,10,13,0,Monday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,1600.0,2025-09,2025,9,28,6,Sunday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,500.0,2025-09,2025,9,30,1,Tuesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,1000.0,2025-10,2025,10,1,2,Wednesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,99.0,2025-10,2025,10,2,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,50.0,2025-10,2025,10,4,5,Saturday,1,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,61.0,2025-10,2025,10,8,2,Wednesday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,35.0,2025-10,2025,10,11,5,Saturday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,165.0,2025-10,2025,10,13,0,Monday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,152.0,2025-10,2025,10,13,0,Monday,0,1,1,0,0,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P3B87751AB",85.0,2025-10,2025,10,16,3,Thursday,0,7,0,0,0,0,0,0,1
-Transfer from 09287324237 to 09608906763,1900.0,2025-10,2025,10,22,2,Wednesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09473577664,118.0,2025-10,2025,10,23,3,Thursday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,1900.0,2025-10,2025,10,22,2,Wednesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,118.0,2025-10,2025,10,23,3,Thursday,0,5,0,0,0,0,1,0,0
 Payment to Smart GigaLife,249.0,2025-10,2025,10,25,5,Saturday,1,1,1,0,0,0,0,0,0
 Payment to LSHOP,497.02,2025-11,2025,11,2,6,Sunday,1,3,0,0,1,0,0,0,0
 Payment to Bancnet P2M Send,18763.8,2025-11,2025,11,3,0,Monday,0,6,0,0,0,0,0,1,0
@@ -116,60 +116,60 @@ Payment to Lapakgaming PH,214.28,2025-11,2025,11,5,2,Wednesday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,532.0,2025-11,2025,11,7,4,Friday,0,3,0,0,1,0,0,0,0
 Payment to COGNOSPHERE PTE. LTD,49.0,2025-11,2025,11,10,0,Monday,0,3,0,0,1,0,0,0,0
 Payment to SHOPEE,1521.0,2025-11,2025,11,11,1,Tuesday,0,4,0,0,0,1,0,0,0
-Buy Load Transaction for 09287324237,61.0,2025-11,2025,11,13,3,Thursday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09260556405,3500.0,2025-11,2025,11,13,3,Thursday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,61.0,2025-11,2025,11,13,3,Thursday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,3500.0,2025-11,2025,11,13,3,Thursday,0,5,0,0,0,0,1,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P3C746AD2F",85.0,2025-11,2025,11,16,6,Sunday,1,7,0,0,0,0,0,0,1
 Payment to Honkai Impact 3,830.0,2025-11,2025,11,17,0,Monday,0,3,0,0,1,0,0,0,0
 Payment to Honkai Impact 3,280.0,2025-11,2025,11,21,4,Friday,0,3,0,0,1,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40Y41517a0",55.0,2025-11,2025,11,28,4,Friday,0,0,0,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40YB0YD5a0",599.0,2025-12,2025,12,4,3,Thursday,0,0,0,0,0,0,0,0,0
-"Payment to Apple services, Merchant Transaction Number: MN40YB1092a0",599.0,2025-12,2025,12,4,3,Thursday,0,0,0,0,0,0,0,0,0
+"Payment to Apple services, Merchant Transaction Number: MN40YB1192a0",599.0,2025-12,2025,12,4,3,Thursday,0,0,0,0,0,0,0,0,0
 Payment to Genshin Impact,280.0,2025-12,2025,12,6,5,Saturday,1,3,0,0,1,0,0,0,0
 Payment to Xsolla,269.0,2025-12,2025,12,8,0,Monday,0,3,0,0,1,0,0,0,0
 Payment to Smart GigaLife,249.0,2025-12,2025,12,11,3,Thursday,0,1,1,0,0,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P3D7866648",85.0,2025-12,2025,12,16,1,Tuesday,0,7,0,0,0,0,0,0,1
-Buy Load Transaction for 09260556405,60.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09287324237,61.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09696363429,61.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09755901450,51.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09764758646,1640.0,2025-12,2025,12,22,0,Monday,0,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09755901450,51.0,2025-12,2025,12,23,1,Tuesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,60.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,61.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,61.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,51.0,2025-12,2025,12,20,5,Saturday,1,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,1640.0,2025-12,2025,12,22,0,Monday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for Others_Number,51.0,2025-12,2025,12,23,1,Tuesday,0,1,1,0,0,0,0,0,0
 "Payment to Foodpanda, Merchant Transaction Number: c2l6-2552-f9k0",2099.0,2025-12,2025,12,24,2,Wednesday,0,2,0,1,0,0,0,0,0
-Buy Load Transaction for 09287324237,52.0,2025-12,2025,12,24,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,52.0,2025-12,2025,12,24,2,Wednesday,0,1,1,0,0,0,0,0,0
 "Payment to TikTok Shop Seller, Merchant Transaction Number: AgYAAtwXmDJpDEO5hf2NG9PvaupwK",349.02,2025-12,2025,12,26,4,Friday,0,4,0,0,0,1,0,0,0
-Buy Load Transaction for 09755901450,51.0,2025-12,2025,12,26,4,Friday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09695514265,500.0,2025-12,2025,12,27,5,Saturday,1,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09755901450,51.0,2025-12,2025,12,28,6,Sunday,1,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09388314678,1463.0,2025-12,2025,12,28,6,Sunday,1,5,0,0,0,0,1,0,0
+Buy Load Transaction for Others_Number,51.0,2025-12,2025,12,26,4,Friday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,500.0,2025-12,2025,12,27,5,Saturday,1,5,0,0,0,0,1,0,0
+Buy Load Transaction for Others_Number,51.0,2025-12,2025,12,28,6,Sunday,1,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,1463.0,2025-12,2025,12,28,6,Sunday,1,5,0,0,0,0,1,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40Z4XHHQa0",999.0,2025-12,2025,12,29,0,Monday,0,0,0,0,0,0,0,0,0
-Buy Load Transaction for 09287324237,57.0,2025-12,2025,12,29,0,Monday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,57.0,2025-12,2025,12,29,0,Monday,0,1,1,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40Z5FX02a0",299.0,2025-12,2025,12,30,1,Tuesday,0,0,0,0,0,0,0,0,0
-Buy Load Transaction for 09696363429,32.0,2025-12,2025,12,30,1,Tuesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,32.0,2025-12,2025,12,30,1,Tuesday,0,1,1,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40Z67DNMa0",299.0,2025-12,2025,12,31,2,Wednesday,0,0,0,0,0,0,0,0,0
-Buy Load Transaction for 09287324237,188.0,2025-12,2025,12,31,2,Wednesday,0,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09755901450,101.0,2025-12,2025,12,31,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for My_Number,188.0,2025-12,2025,12,31,2,Wednesday,0,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,101.0,2025-12,2025,12,31,2,Wednesday,0,1,1,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40Z7WW5Ga0",999.0,2026-01,2026,1,1,3,Thursday,0,0,0,0,0,0,0,0,0
-Transfer from 09287324237 to 09695514265,2000.0,2026-01,2026,1,2,4,Friday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,2000.0,2026-01,2026,1,2,4,Friday,0,5,0,0,0,0,1,0,0
 Payment to MLBB,105.34,2026-01,2026,1,2,4,Friday,0,3,0,0,1,0,0,0,0
-Transfer from 09287324237 to 09953241902,360.0,2026-01,2026,1,3,5,Saturday,1,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,360.0,2026-01,2026,1,3,5,Saturday,1,5,0,0,0,0,1,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40ZBTM5Qa0",799.0,2026-01,2026,1,3,5,Saturday,1,0,0,0,0,0,0,0,0
-Buy Load Transaction for 09755901450,51.0,2026-01,2026,1,4,6,Sunday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09696363429,22.0,2026-01,2026,1,6,1,Tuesday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09287323994,200.0,2026-01,2026,1,7,2,Wednesday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for Others_Number,51.0,2026-01,2026,1,4,6,Sunday,1,1,1,0,0,0,0,0,0
+Buy Load Transaction for Others_Number,22.0,2026-01,2026,1,6,1,Tuesday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,200.0,2026-01,2026,1,7,2,Wednesday,0,5,0,0,0,0,1,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40ZJF357a0",599.0,2026-01,2026,1,8,3,Thursday,0,0,0,0,0,0,0,0,0
-Transfer from 09287324237 to 09928425021,500.0,2026-01,2026,1,10,5,Saturday,1,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09287324237,118.0,2026-01,2026,1,12,0,Monday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,500.0,2026-01,2026,1,10,5,Saturday,1,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,118.0,2026-01,2026,1,12,0,Monday,0,1,1,0,0,0,0,0,0
 Payment to Shopee Philippines Inc,303.0,2026-01,2026,1,14,2,Wednesday,0,4,0,0,0,1,0,0,0
-Transfer from 09287324237 to 09691912966,134.0,2026-01,2026,1,14,2,Wednesday,0,5,0,0,0,0,1,0,0
-Transfer from 09287324237 to 09696004745,200.0,2026-01,2026,1,18,6,Sunday,1,5,0,0,0,0,1,0,0
-Buy Load Transaction for 09287324237,57.0,2026-01,2026,1,19,0,Monday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,134.0,2026-01,2026,1,14,2,Wednesday,0,5,0,0,0,0,1,0,0
+Transfer from My_Number to Others_Number,200.0,2026-01,2026,1,18,6,Sunday,1,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,57.0,2026-01,2026,1,19,0,Monday,0,1,1,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40ZZMZ2Ba0",49.0,2026-01,2026,1,20,1,Tuesday,0,0,0,0,0,0,0,0,0
 "Payment to SPOTIFY AB, Merchant Transaction Number: P3E9318C4B",169.0,2026-01,2026,1,21,2,Wednesday,0,7,0,0,0,0,0,0,1
 Payment to MLBB,105.34,2026-01,2026,1,21,2,Wednesday,0,3,0,0,1,0,0,0,0
 Payment to MLBB,105.34,2026-01,2026,1,21,2,Wednesday,0,3,0,0,1,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN40ZZYTVKa0",60.0,2026-01,2026,1,21,2,Wednesday,0,0,0,0,0,0,0,0,0
 Payment to Smart GigaLife,55.0,2026-01,2026,1,24,5,Saturday,1,1,1,0,0,0,0,0,0
-Buy Load Transaction for 09287324237,57.0,2026-01,2026,1,29,3,Thursday,0,1,1,0,0,0,0,0,0
-Transfer from 09287324237 to 09473577664,200.0,2026-01,2026,1,29,3,Thursday,0,5,0,0,0,0,1,0,0
+Buy Load Transaction for My_Number,57.0,2026-01,2026,1,29,3,Thursday,0,1,1,0,0,0,0,0,0
+Transfer from My_Number to Others_Number,200.0,2026-01,2026,1,29,3,Thursday,0,5,0,0,0,0,1,0,0
 "Payment to Apple services, Merchant Transaction Number: MN410D4JLKa0",499.0,2026-02,2026,2,1,6,Sunday,1,0,0,0,0,0,0,0,0
 "Payment to Apple services, Merchant Transaction Number: MN410FJW22a0",830.0,2026-02,2026,2,2,0,Monday,0,0,0,0,0,0,0,0,0
